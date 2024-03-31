@@ -1,0 +1,69 @@
+{
+    "home_title" : "Stream Free Movies & TV Shows",
+    "home_description" : "Browse and Watch all your favorite online movies & series for free!",
+    "seo_movie_title": "Watch :title Full Movie Online Free",
+    "seo_tv_title": "Watch :title HD Free TV Show",
+
+    "movie_popular": "Popular Movies",
+    "movie_now_playing": "Now Playing Movies",
+    "movie_top_rated": "Top Rated Movies",
+    "movie_upcoming": "Upcoming Movies",
+
+    "tv_popular": "Popular Tv Shows",
+    "tv_on_the_air": "On The Air Tv Shows",
+    "tv_top_rated": "Top Rated Tv Shows",
+    "tv_airing_today": "Airing Today Tv Shows",
+
+    "popular_people": "Popular People",
+
+    "cast" : "Cast",
+
+    "movies"         : "Movies",
+    "popular"        : "Popular",
+    "now_playing"    : "Now Playing",
+    "top_rated"      : "Top Rated",
+    "upcoming"       : "Upcoming",
+    "tv_shows"       : "TV Shows",
+    "on_tv"          : "On TV",
+    "airing_today"   : "Airing Today",
+    "search"         : "Search...",
+
+    "movie_list_of"        : "Movies List of :name",
+
+    "movie_genre"          : "Movies Genre",
+    "similar"              : "Similars",
+    "recommendation"       : "Recommendations",
+
+    "release_date": "Release Date",
+    "genres": "Genres",
+    "directors": "Directors",
+    "view_all"        : "View All",
+    "subscribe_watch" : "Subscribe to Watch | $0.00",
+    "released"        : "Released",
+    "runtime"         : "Runtime",
+    "genre"           : "Genre",
+    "stars"           : "Stars",
+    "director"        : "Director",
+    "minutes"         : "minutes",
+    "by"              : "by",
+    "users"           : "users",
+    "download"        : "Download",
+    "season"          : "Season",
+    "watch"           : "Watch",
+    "episode"         : "Episode",
+    "know_for"        : "Known For",
+    "birthday"        : "Birthday",
+    "place_of_birth"  : "Place of Birth",
+    "also_know_as"    : "Also Known As",
+    "biography"       : "Biography",
+    "sign_in"         : "Sign In",
+    "register"        : "Register",
+
+    "watch_now"       : "Watch Now",
+
+    "active_your_account_free" : "Activate your FREE Account!",
+    "you_must_create"          : "You must create an account to continue watching",
+    "continue_watch"           : "Continue to watch for FREE ➞",
+    "quick_sign_up"            : "Quick Sign Up!",
+    "take_less_then"           : "It takes less then 1 minute to Sign Up, then you can enjoy Unlimited Movies & TV titles."
+}
